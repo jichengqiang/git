@@ -1,2 +1,3 @@
-this is a version control system
+this is a distribute version control system
 it is free softwore
+
